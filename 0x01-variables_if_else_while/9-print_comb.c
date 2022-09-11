@@ -4,7 +4,7 @@
 /**
  * main - combinations of single digit numbers
  *
- * Return: always 0 (success)
+ * return: always 0 (success)
  */
 int main(void)
 {
@@ -16,6 +16,7 @@ int main(void)
 	if (c != '9')
 	{
 		putchar(',');
+
 		putchar(' ');
 	}
 	c++;
