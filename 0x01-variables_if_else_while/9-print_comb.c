@@ -4,22 +4,20 @@
 /**
  * main - combinations of single digit numbers
  *
- * return: always 0 (success)
+ * Return: always 0 (success)
  */
 int main(void)
 {
 	int c;
-
 	while (c <= '9')
 	{
 		putchar(c);
+	}
 	if (c != '9')
 	{
 		putchar(',');
-
 		putchar(' ');
-	}
-	c++;
+	++c;
 	}
 	putchar('\n');
 	return (0);
