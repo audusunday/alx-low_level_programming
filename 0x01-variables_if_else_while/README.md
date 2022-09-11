@@ -21,7 +21,8 @@ Task 8 -program that prints all the numbers of base 16 in lowercase, followed by
 
 Task 9 - program that prints all possible combinations of single-digit numbers.
 
-Task 10-
+Task 10-a program that prints all possible different combinations of two digits.
 
-Task 11-
-Task 12-
+Task 11-a program that prints all possible different combinations of three digits.
+
+Task 12-Write a program that prints all possible combinations of two two-digit numbers.
