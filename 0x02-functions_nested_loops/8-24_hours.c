@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer - function that prints minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+ * jack_bauer - function that prints minute of the day of Jack Bauer.
  * Return: 0;
  */
 void jack_bauer(void)
@@ -8,7 +8,7 @@ void jack_bauer(void)
 	int hours = 0;
 	int minutes = 0;
 	int hour_remainder;
-	int mins-remainder;
+	int mins_remainder;
 
 	while (hour <= 23)
 	{
@@ -27,5 +27,4 @@ void jack_bauer(void)
 		hours++;
 		minutes = 0;
 	}
-	return (0);
 }
