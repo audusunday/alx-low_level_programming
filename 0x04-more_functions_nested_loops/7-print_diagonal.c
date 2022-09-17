@@ -3,7 +3,8 @@
 
 /**
  * print_diagonal - prints a diagonal
- * @N: parameter
+ * @n: parameter
+ *
  * Return: returns 0
  */
 
@@ -24,8 +25,8 @@ void print_diagonal(int n)
 				{
 					continue;
 				}
-				_putchar('\n');
+				putchar('\n');
 			}
 		}
-_putchar('\n')
+	putchar('\n');
 }
