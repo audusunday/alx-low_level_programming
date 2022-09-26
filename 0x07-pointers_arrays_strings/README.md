@@ -2,13 +2,13 @@
 
 TASK0 Write a function that fills memory with a constant byte.
 
-TASK1
+TASK1 Write a function that copies memory area.
 
-TASK2
+TASK2 Write a function that locates a character in a string.
 
-TASK3
+TASK3 Write a function that gets the length of a prefix substring.
 
-TASK4
+TASK4 
 
 TASK5
 
