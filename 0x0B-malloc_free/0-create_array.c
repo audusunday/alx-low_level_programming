@@ -2,7 +2,7 @@
 
 /**
  * create_array - creating array
- * @size - size of array to be created
+ * @size: size of array to be created
  * @c: character and array is initialize with
  * Return: a pointer to an array
  */
@@ -20,3 +20,4 @@ char *create_array(unsigned int size, char c)
 	for (i = 0; i < size; i++)
 		s[i] = c;
 	return (s);
+}
