@@ -1,6 +1,5 @@
-0x0A. C - argc, argv 
+0x0A. C - argc, argv
 
 Task 0
 
 Task 1
-Task 2
