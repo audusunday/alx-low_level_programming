@@ -8,5 +8,5 @@ TASK 2 Write a function that searches for an integer.
 
 TASK 3 Write a program that performs simple operations.
 
-TASK 4 
+TASK 4 Write a program that prints the opcodes of its own main function. 
 
